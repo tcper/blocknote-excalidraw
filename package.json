@@ -1,11 +1,17 @@
 {
-  "name": "react-app",
+  "name": "blocknote-excalidraw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@blocknote/core": "^0.13.5",
+    "@blocknote/mantine": "^0.13.5",
+    "@blocknote/react": "^0.13.5",
+    "@excalidraw/excalidraw": "^0.17.6",
+    "@mantine/core": "^7.10.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "lodash.throttle": "^4.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
