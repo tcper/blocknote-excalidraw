@@ -1,7 +1,9 @@
 
 # Blocknote custom block of excalidraw
 
-Integrated excalidraw into blocknote as customblock
+Integrated [excalidraw](https://excalidraw.com/) into [blocknote](https://www.blocknotejs.org/) as customblock
+
+![image](https://github.com/tcper/blocknote-excalidraw/assets/363082/70d462e8-c219-4fa7-8a1a-7371b005d1d3)
 
 
 # Getting Started with Create React App
